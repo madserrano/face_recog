@@ -1,0 +1,2 @@
+opened port /dev/ttyUSB0
+send string:6
